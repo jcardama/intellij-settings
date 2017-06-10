@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+        <webServer id="89fb56ef-219e-4d60-9c22-34d15bfee42f" name="La Legión" url="http://lalegion.sftp.wpengine.com">
+        <fileTransfer host="lalegion.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
