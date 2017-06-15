@@ -2,8 +2,6 @@
   <template name="GT" value="&lt;?php echo _(&quot;$SELECTION$&quot;); ?&gt;" description="Sorround with GETTEXT" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
