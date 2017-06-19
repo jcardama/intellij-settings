@@ -1,7 +1,23 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="89fb56ef-219e-4d60-9c22-34d15bfee42f" name="La Legión" url="http://lalegion.sftp.wpengine.com">
+      <webServer id="459eab94-cbf4-411e-ad66-faa050a65cf7" name="[DEV] Armayan" url="http://armayan.josc.pw">
+        <fileTransfer host="josc.pw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="93931315-0c62-48fa-8b69-0a3d35f49df3" name="[PROD] Beatpad" url="http://armayan.josc.pw">
+        <fileTransfer host="josc.pw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+        <webServer id="89fb56ef-219e-4d60-9c22-34d15bfee42f" name="La Legión" url="http://lalegion.sftp.wpengine.com">
         <fileTransfer host="lalegion.sftp.wpengine.com" port="2222" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
