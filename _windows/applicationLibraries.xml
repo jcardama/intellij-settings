@@ -108,5 +108,45 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="foundation-sites-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_foundation-sites_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_foundation-sites_index.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="handlebars-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_handlebars_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_handlebars_index.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jquery_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jquery_index.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
