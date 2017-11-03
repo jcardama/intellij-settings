@@ -8,6 +8,6 @@
     <option name="accentColor" value="2979ff" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="" />
+    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
