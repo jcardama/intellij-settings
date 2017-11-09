@@ -33,7 +33,7 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="517e0dd3-7165-4bbd-aa57-62206a7170aa" name="[DEV] Tickets" url="http://tickets.josc.pw">
+      <webServer id="517e0dd3-7165-4bbd-aa57-62206a7170aa" name="[PROD] Miticket" url="http://miticket.gt">
         <fileTransfer host="josc.pw" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
