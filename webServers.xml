@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bcc27357-3c4b-4789-b4bf-bb103bd08ab9" name="Itordenadores" url="http://itordenadores.sftp.wpengine.com">
+        <fileTransfer host="itordenadores.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
