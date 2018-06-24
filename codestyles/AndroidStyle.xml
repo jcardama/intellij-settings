@@ -125,8 +125,8 @@
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="VAR_DECLARATION_WRAP" value="5" />
-    <option name="OBJECT_LITERAL_WRAP" value="0" />
+    <option name="VAR_DECLARATION_WRAP" value="0" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
     <option name="IMPORTS_WRAP" value="0" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
@@ -187,6 +187,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
