@@ -2,15 +2,10 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.0-pre1" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FF9800" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="upperCaseTabs" value="true" />
+    <option name="accentColor" value="1182fd" />
     <option name="darkTitleBar" value="true" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="userId" value="303c02e5:16620866fcd:-8000" />
+    <option name="userId" value="3954db48:166208969b1:-8000" />
+    <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="isWizardShown" value="true" />
   </component>
