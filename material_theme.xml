@@ -1,17 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0" />
+    <option name="version" value="2.9.2" />
     <option name="selectedTheme" value="DARKER" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="FF9800" />
-    <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="48" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="userId" value="642a2659:166300bd5c0:-8000" />
+    <option name="userId" value="-68cc4ce:1665e82d5fb:-7fff" />
+    <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="isWizardShown" value="true" />
