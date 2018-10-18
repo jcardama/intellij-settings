@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Split current tag" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Android/Override Resource in Other Configuration..." />
+  </component>
+</application>

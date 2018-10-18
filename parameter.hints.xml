@@ -1,6 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.view.LayoutInflater.inflate(resource,root)" />
+        <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
+      </blacklist>
+    </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
   </component>
 </application>
