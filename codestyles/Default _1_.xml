@@ -40,6 +40,26 @@
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
+    <option name="LAYOUT_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+      </value>
+    </option>
+    <option name="MANIFEST_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+      </value>
+    </option>
+    <option name="VALUE_RESOURCE_FILE_SETTINGS">
+      <value>
+        <option name="WRAP_ATTRIBUTES" value="2" />
+      </value>
+    </option>
+    <option name="OTHER_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
+      </value>
+    </option>
   </AndroidXmlCodeStyleSettings>
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
@@ -132,6 +152,7 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
   <XML>
+    <option name="XML_KEEP_WHITESPACES" value="true" />
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
@@ -278,7 +299,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
