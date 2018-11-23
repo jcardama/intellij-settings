@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)" version="173">
+<code_scheme name="DEV" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -56,10 +56,6 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
-  <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
-  </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
@@ -73,11 +69,6 @@
     <option name="HTML_INLINE_ELEMENTS" value="acronym,basefont,bdo,big,cite,cite,dfn,em,font,input,kbd,q,s,samp,strike,tt,u,var,i,img,br,a" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
-    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
-  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
@@ -137,15 +128,6 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
-  <PHPCodeStyleSettings>
-    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
-    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
-    <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="ELSE_IF_STYLE" value="COMBINE" />
-    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
-    <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
-  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
