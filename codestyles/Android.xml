@@ -225,7 +225,7 @@
     <option name="CONTINUATION_INDENT_SIZE" value="4" />
   </ADDITIONAL_INDENT_OPTIONS>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="-1" />
+    <option name="RIGHT_MARGIN" value="0" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -238,9 +238,9 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="false" />
     <option name="ASSIGNMENT_WRAP" value="0" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
