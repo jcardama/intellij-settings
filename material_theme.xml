@@ -1,15 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.2" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="highlightColor" value="2962ff" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FF9800" />
+    <option name="accentColor" value="84ffff" />
     <option name="tabsHeight" value="48" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="userId" value="-68cc4ce:1665e82d5fb:-7fff" />
+    <option name="userId" value="4f200c5f:1689052523e:-7fff" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />
