@@ -1,7 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="2196f3" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="defaultBackground" value="" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="-4738fe1:168a4ec45b6:-7fff" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
