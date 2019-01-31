@@ -1,12 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="DARKER" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FF9800" />
-    <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="48" />
-    <option name="isCompactStatusBar" value="true" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="defaultBackground" value="" />
-    <option name="upperCaseTabs" value="true" />
   </component>
 </application>
