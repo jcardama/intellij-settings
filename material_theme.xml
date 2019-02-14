@@ -7,5 +7,6 @@
     <option name="accentColor" value="84ffff" />
     <option name="tabsHeight" value="48" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
