@@ -8,9 +8,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
   <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
       <value>
         <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
@@ -26,9 +24,6 @@
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="" withSubpackages="true" static="false" />
@@ -55,7 +50,6 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="php">
@@ -217,7 +211,7 @@
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="FORCE_REARRANGE_MODE" value="1" />
+    <option name="FORCE_REARRANGE_MODE" value="0" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -226,20 +220,6 @@
     </indentOptions>
     <arrangement>
       <rules>
-        <section>
-          <rule>
-            <match>
-              <NAME>class</NAME>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <NAME>layout</NAME>
-            </match>
-          </rule>
-        </section>
         <section>
           <rule>
             <match>
