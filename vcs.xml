@@ -4,11 +4,15 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="joscplan@gmail.com" />
+          <option name="userName" value="jcardama360@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitlab.com/universales-mobile/android-libraries/progress.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="JCardama" />
         </UrlAndUserName>
       </list>
     </option>
