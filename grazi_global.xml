@@ -9,9 +9,11 @@
     <option name="enabledSpellcheck" value="true" />
     <option name="userWords">
       <set>
+        <option value="bearer" />
         <option value="glide" />
         <option value="n•" />
         <option value="t" />
+        <option value="token" />
         <option value="vehicular" />
       </set>
     </option>
