@@ -9,6 +9,7 @@
     <option name="enabledSpellcheck" value="true" />
     <option name="userWords">
       <set>
+        <option value="glide" />
         <option value="n•" />
         <option value="t" />
         <option value="vehicular" />
