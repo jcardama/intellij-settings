@@ -10,9 +10,16 @@
     <option name="userWords">
       <set>
         <option value="bearer" />
+        <option value="dagger" />
+        <option value="dependencies" />
         <option value="glide" />
+        <option value="kotlin" />
+        <option value="libraries" />
         <option value="n•" />
+        <option value="support" />
         <option value="t" />
+        <option value="testing" />
+        <option value="timber" />
         <option value="token" />
         <option value="vehicular" />
       </set>
