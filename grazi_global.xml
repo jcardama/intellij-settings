@@ -21,6 +21,7 @@
         <option value="testing" />
         <option value="timber" />
         <option value="token" />
+        <option value="url" />
         <option value="vehicular" />
       </set>
     </option>
