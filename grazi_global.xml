@@ -11,6 +11,7 @@
       <set>
         <option value="apigt" />
         <option value="bearer" />
+        <option value="calendar" />
         <option value="dagger" />
         <option value="dependencies" />
         <option value="glide" />
