@@ -7,6 +7,60 @@
       </set>
     </option>
     <option name="enabledSpellcheck" value="true" />
+    <option name="userWords">
+      <set>
+        <option value="bearer" />
+        <option value="glide" />
+        <option value="n•" />
+        <option value="t" />
+        <option value="token" />
+        <option value="vehicular" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="ACCOMMODATION" />
+        <option value="ACTUAL" />
+        <option value="ADEPT" />
+        <option value="ALTERNATIVELY" />
+        <option value="BILLET" />
+        <option value="BILLION" />
+        <option value="CARPET" />
+        <option value="CARTOON" />
+        <option value="COMPOSITOR" />
+        <option value="COMPREHENSIVE" />
+        <option value="CONSEQUENT" />
+        <option value="CURRENCY" />
+        <option value="CYMBAL" />
+        <option value="EVENTUALLY" />
+        <option value="EXPONENT" />
+        <option value="FABRIC" />
+        <option value="FABRICATION" />
+        <option value="FIGURE" />
+        <option value="FORM" />
+        <option value="NOTICE" />
+        <option value="OBSCURE" />
+        <option value="PHYSICIAN" />
+        <option value="PRESENT" />
+        <option value="PRESERVATIVE" />
+        <option value="PREVENT" />
+        <option value="PROSPECT" />
+        <option value="REAL" />
+        <option value="REALIZE" />
+        <option value="REGULAR" />
+        <option value="RENT" />
+        <option value="RENTABLE" />
+        <option value="SCHOLAR" />
+        <option value="SENSIBLE" />
+        <option value="SENTENCE" />
+        <option value="SMOKING" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="UPPERCASE_SENTENCE_START" />
+      </set>
+    </option>
     <option name="lastSeenVersion" value="2019.1-4.stable" />
   </component>
 </application>
