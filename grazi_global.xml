@@ -25,6 +25,7 @@
         <option value="token" />
         <option value="url" />
         <option value="vehicular" />
+        <option value="yyyy" />
       </set>
     </option>
     <option name="userDisabledRules">
