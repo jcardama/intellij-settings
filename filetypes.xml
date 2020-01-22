@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="bpf" type="PLAIN_TEXT" />
       <mapping pattern="white_stroke_color" type="XML" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
