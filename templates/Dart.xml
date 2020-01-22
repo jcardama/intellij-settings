@@ -1,5 +1,5 @@
 <templateSet group="Dart">
-  <template name="aaatest" value="test('', () async {&#10;    // arrange&#10;    &#10;    // act&#10;    &#10;    // assert&#10;    &#10;});" description="AAA Test" toReformat="false" toShortenFQNames="true">
+  <template name="aaatest" value="test('Should $END$', () async {&#10;  // arrange&#10;  &#10;  // act&#10;  &#10;  // assert&#10;  &#10;});" description="AAA Test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
     </context>
