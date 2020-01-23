@@ -88,7 +88,7 @@
     <option name="CONTINUATION_INDENT_SIZE" value="4" />
   </ADDITIONAL_INDENT_OPTIONS>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="0" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
