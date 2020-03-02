@@ -17,6 +17,7 @@
         <option value="glide" />
         <option value="kotlin" />
         <option value="libraries" />
+        <option value="municipalities" />
         <option value="n•" />
         <option value="support" />
         <option value="t" />
@@ -26,6 +27,7 @@
         <option value="url" />
         <option value="vehicular" />
         <option value="yyyy" />
+        <option value="zones" />
       </set>
     </option>
     <option name="userDisabledRules">
