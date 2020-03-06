@@ -18,6 +18,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
 </application>
