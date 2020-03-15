@@ -52,6 +52,7 @@
         <option value="FORM" />
         <option value="NOTICE" />
         <option value="OBSCURE" />
+        <option value="PASSIVE_VOICE" />
         <option value="PHYSICIAN" />
         <option value="PRESENT" />
         <option value="PRESERVATIVE" />
