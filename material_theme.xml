@@ -4,11 +4,10 @@
     <option name="darkTitleBar" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="accentColor" value="84ffff" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="424e5c6a:16a176ae0b8:-7fff" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
