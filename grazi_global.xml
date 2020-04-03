@@ -67,6 +67,7 @@
         <option value="SENSIBLE" />
         <option value="SENTENCE" />
         <option value="SMOKING" />
+        <option value="USELESS_THAT" />
       </set>
     </option>
     <option name="userEnabledRules">
