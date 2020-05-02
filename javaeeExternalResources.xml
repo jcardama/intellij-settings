@@ -4,6 +4,7 @@
     <resource url="http://camel.apache.org/schema/spring" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/9caa49d4_camel-spring.xsd" />
     <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/5b196030_cxf-beans.xsd" />
     <resource url="http://schema.org/WebSite" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/c1e34135_WebSite.html" />
+    <resource url="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/19efb6d3_sitemap.xsd.xml" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/334543e7_spring-beans.xsd" />
   </component>
 </application>
