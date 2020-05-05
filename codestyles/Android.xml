@@ -1,7 +1,4 @@
 <code_scheme name="Android" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
@@ -88,14 +85,6 @@
     <option name="CONTINUATION_INDENT_SIZE" value="4" />
   </ADDITIONAL_INDENT_OPTIONS>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="100" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="CALL_PARAMETERS_WRAP" value="0" />
-    <option name="METHOD_PARAMETERS_WRAP" value="0" />
-    <option name="BINARY_OPERATION_WRAP" value="0" />
-    <option name="TERNARY_OPERATION_WRAP" value="0" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
-    <option name="ASSIGNMENT_WRAP" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
