@@ -5,6 +5,10 @@
       <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="194d45bb-c121-47b2-ab0a-84e1de076115" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="a525a071-c220-4723-9c1c-77162270a223" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="f1ec8bd5-2f86-46d2-89cc-be87f04c273d" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="lalegion.sftp.wpengine.com" id="4ca5c95d-da0b-486c-a976-5af98eaa1d94" port="2222" customName="La Legión" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="b23a736b-6bcc-48e1-afd4-03aab15dae3f" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="2bb726e4-4931-4eec-8ac7-5e99c4a1dad0" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="9515f660-3362-47e9-9879-991e738e1225" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
