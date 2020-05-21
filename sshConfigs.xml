@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="lalegion.sftp.wpengine.com" id="b7386a89-4cb4-4d70-8b4e-29bc4f023f42" port="2222" customName="La Legión" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="194d45bb-c121-47b2-ab0a-84e1de076115" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="a525a071-c220-4723-9c1c-77162270a223" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="f1ec8bd5-2f86-46d2-89cc-be87f04c273d" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
