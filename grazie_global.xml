@@ -6,29 +6,6 @@
         <option value="Spanish" />
       </set>
     </option>
-    <option name="userWords">
-      <set>
-        <option value="apigt" />
-        <option value="bearer" />
-        <option value="calendar" />
-        <option value="dagger" />
-        <option value="dependencies" />
-        <option value="glide" />
-        <option value="kotlin" />
-        <option value="libraries" />
-        <option value="municipalities" />
-        <option value="n•" />
-        <option value="support" />
-        <option value="t" />
-        <option value="testing" />
-        <option value="timber" />
-        <option value="token" />
-        <option value="url" />
-        <option value="vehicular" />
-        <option value="yyyy" />
-        <option value="zones" />
-      </set>
-    </option>
     <option name="userDisabledRules">
       <set>
         <option value="ACCOMMODATION" />
@@ -75,6 +52,5 @@
         <option value="UPPERCASE_SENTENCE_START" />
       </set>
     </option>
-    <option name="lastSeenVersion" value="2019.1-4.stable" />
   </component>
 </application>
