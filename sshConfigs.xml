@@ -17,6 +17,14 @@
       <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="6fcd2c9b-5335-4f8c-b32d-e0455139cc34" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="fc11c037-15a0-4775-bec4-29b9e71cf572" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="48aeed5c-0d23-40c0-92dd-3099e6a0fee1" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="lalegion.sftp.wpengine.com" id="f2503eb4-2d41-47bc-99bd-962970ac8518" port="2222" customName="La Legión" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="81dbcb45-92f6-42d8-b514-2f9e01ceeb33" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="f4316dc5-79da-40c9-b733-352a5c10ab37" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="e0490ae3-68c3-4e32-b317-40ffb3692871" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="lalegion.sftp.wpengine.com" id="e10265fc-4038-4550-bba0-a2f0ad2bd1fc" port="2222" customName="La Legión" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="universales.sftp.wpengine.com" id="70e9a689-7208-4cf6-9b60-85d5a3bb4a16" port="2222" customName="[PROD] Universales" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="itordenadores.sftp.wpengine.com" id="1b7ebff8-6931-4514-a5ba-65f327a953cd" port="2222" customName="Itordenadores" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="demouniversale.sftp.wpengine.com" id="04e7e545-558a-4887-898f-d4f880a20695" port="2222" customName="[DEV] Universales" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
