@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="8207cdc5-2538-4716-8a7e-15478fde1687" name="JCardama">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="joscplan" />
     <option name="AUTH_TYPE" value="BASIC" />
