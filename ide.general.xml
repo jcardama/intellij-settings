@@ -17,7 +17,6 @@
     <entry key="bigger.font.in.project.view" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="debugger.watches.in.variables" value="false" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
