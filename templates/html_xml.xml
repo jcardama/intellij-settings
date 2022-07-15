@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="GT" value="&lt;?php echo _('$SELECTION$'); ?&gt;" description="Surround with Gettext section" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
