@@ -21,11 +21,14 @@
     <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
