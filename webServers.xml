@@ -1,0 +1,62 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="459eab94-cbf4-411e-ad66-faa050a65cf7" name="[DEV] Armayan" url="http://armayan.josc.pw">
+        <fileTransfer host="josc.pw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="93931315-0c62-48fa-8b69-0a3d35f49df3" name="[PROD] Beatpad" url="http://armayan.josc.pw">
+        <fileTransfer host="josc.pw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="89fb56ef-219e-4d60-9c22-34d15bfee42f" name="La Legión" url="http://lalegion.sftp.wpengine.com">
+        <fileTransfer host="lalegion.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="02521c52-b9ee-4475-a6e6-ac32acc26bbb" name="[PROD] Universales" url="http://universales.sftp.wpengine.com">
+        <fileTransfer host="universales.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="517e0dd3-7165-4bbd-aa57-62206a7170aa" name="[PROD] Miticket" url="http://miticket.gt">
+        <fileTransfer host="josc.pw" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bcc27357-3c4b-4789-b4bf-bb103bd08ab9" name="Itordenadores" url="http://itordenadores.sftp.wpengine.com">
+        <fileTransfer host="itordenadores.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="606ee0d7-916d-47c9-8723-23f8a997a6be" name="[DEV] Universales" url="http://demouniversale.sftp.wpengine.com">
+        <fileTransfer host="demouniversale.sftp.wpengine.com" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

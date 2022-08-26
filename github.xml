@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="JCardama" id="8207cdc5-2538-4716-8a7e-15478fde1687">
+      <server host="github.com" />
+    </account>
+    <account name="bll-weapon-alpha" id="fc25842a-fbe3-4c85-bd1a-03d520966163">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
