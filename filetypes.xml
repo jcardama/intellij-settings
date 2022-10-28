@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="text_field_name.dart" type="AUTO_DETECTED" />
-      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -17,8 +16,14 @@
       <mapping ext="mm" type="PLAIN_TEXT" />
       <mapping pattern="white_stroke_color" type="XML" />
       <removed_mapping ext="apk" approved="true" type="APK" />
+      <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="mm" approved="true" type="ObjectiveC" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
