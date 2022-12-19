@@ -14,6 +14,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="bpf" type="PLAIN_TEXT" />
       <mapping ext="mm" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="white_stroke_color" type="XML" />
       <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
